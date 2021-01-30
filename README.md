@@ -1,2 +1,2 @@
-# CI-with-Jenkins-in-GCP-Demo - praveen
+# CI-with-Jenkins-in-GCP-Demo
 Test CI
