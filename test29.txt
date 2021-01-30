@@ -1,2 +1,0 @@
-To test CI-CD pipeline
-Hello
