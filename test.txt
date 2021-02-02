@@ -10,3 +10,4 @@ hello
 hi
 full pipeline test
 testing email notification
+email
