@@ -8,3 +8,4 @@ Fixed webhook and retesting the pipeline.
 Fixed nexus pipeline issue
 hello
 hi
+full pipeline test
